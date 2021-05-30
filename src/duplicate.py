@@ -4,3 +4,4 @@ for number in numbers:
     if number in newNumbers:
         continue
     newNumbers.append(number)
+print(newNumbers)
